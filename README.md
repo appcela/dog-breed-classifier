@@ -11,10 +11,18 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 ## Sample Output
 
-Good prediction!
+### Good prediction!
+
+My classifier is very good at predicting dog breed with test dataset.
 
 ![](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-dog-classification/images/sample_dog_output.png)
 
-Bad prediction!
+### Bad prediction!
+
+Not so good with cats.
 
 ![](./bad-example.png)
+
+### What about human?
+
+![](./try-human.png)
